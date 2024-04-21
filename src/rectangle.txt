@@ -1,0 +1,5 @@
+90 120 red
+180 60 blue
+-54 7 blue
+15 10 green
+60 60 red
